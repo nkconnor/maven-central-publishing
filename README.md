@@ -1,6 +1,4 @@
 
-This is a guide for easily publishing to Maven Central via the Sonatype repository.
-
 ## Getting Started
 
 First, sign-up for a Jira account on https://issues.sonatype.org. Login and create an issue for a new project. Sonatype will quickly approve the request.
